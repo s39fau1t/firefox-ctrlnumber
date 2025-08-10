@@ -5,6 +5,9 @@
       "ctrlnumber.js"
     ]
   },
+  "permissions": [
+    "tabGroups"
+  ],
   "commands": {
     "switch-tab-1": {
       "description": "Switch to the first tab",
